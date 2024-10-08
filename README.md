@@ -1,2 +1,2 @@
-# Repositorio-git
-Novo repositorio
+# Aprendendo git com Repositorio-git
+Apredendo git e gtihub
